@@ -1,0 +1,23 @@
+
+
+.footer
+{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+.secao-primary {
+    background-color: #337cbb !important;
+    color: #ffffff;
+}
+
+.secao {
+    position: relative;
+    padding: 35px 0;
+}
+
+table.auto
+{
+    table-layout:auto;
+}
